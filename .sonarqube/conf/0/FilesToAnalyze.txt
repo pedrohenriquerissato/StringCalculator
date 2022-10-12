@@ -1,0 +1,2 @@
+﻿C:\Users\pedro\source\repos\StringCalculator\StringCalculator\Calculator.cs
+C:\Users\pedro\source\repos\StringCalculator\StringCalculator\Program.cs
