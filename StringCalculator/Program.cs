@@ -9,7 +9,7 @@ namespace StringCalculator
             if (args.Length == 0)
                 return;
 
-            var result = StringCalculator.Calculator.Add(args[0]);
+            var result = Calculator.Add(args[0]);
             Console.WriteLine($"Your sum is: {result}");
         }
     }
